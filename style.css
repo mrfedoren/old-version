@@ -24,7 +24,7 @@ h3 {
 }
 
 .header {
-  min-height: 5vh;
+  min-height: 2vh;
   width: 100%;
   background: #2d3757;
   background-position: center;
@@ -35,7 +35,7 @@ h3 {
 
 nav {
   display: flex;
-  padding: 2% 6%;
+  padding: 10px;
   justify-content: space-between;
   align-items: center;
 }
